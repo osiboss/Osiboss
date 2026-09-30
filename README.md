@@ -133,9 +133,6 @@ My portfolio demonstrates experience across both **technical security operations
 
 ⭐ Feel free to explore my repositories and cybersecurity projects.
 
----
-
-
 
 <!--
 **osiboss/Osiboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
