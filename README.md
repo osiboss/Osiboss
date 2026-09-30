@@ -131,9 +131,11 @@ My portfolio demonstrates experience across both **technical security operations
 
 [![GitHub](https://img.shields.io/badge/GitHub-osiboss-black?style=for-the-badge&logo=github)](https://github.com/osiboss)
 
+⭐ Feel free to explore my repositories and cybersecurity projects.
+
 ---
 
-⭐ Feel free to explore my repositories and cybersecurity projects.
+
 
 <!--
 **osiboss/Osiboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
